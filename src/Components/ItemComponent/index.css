@@ -1,0 +1,10 @@
+.item-con {
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+  margin: 5px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+}
